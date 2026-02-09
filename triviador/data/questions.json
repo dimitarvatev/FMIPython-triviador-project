@@ -1,0 +1,262 @@
+{
+    "categories": ["История", "География", "Наука", "Изкуство", "Спорт", "Обща култура"],
+    "questions": [
+        {
+            "id": 1,
+            "category": "История",
+            "difficulty": 1,
+            "type": "multiple_choice",
+            "question": "В коя година е открита Америка от Христофор Колумб?",
+            "options": ["1492", "1500", "1450", "1520"],
+            "correct_answer": "1492"
+        },
+        {
+            "id": 2,
+            "category": "География",
+            "difficulty": 1,
+            "type": "multiple_choice",
+            "question": "Коя е столицата на България?",
+            "options": ["Пловдив", "Варна", "София", "Бургас"],
+            "correct_answer": "София"
+        },
+        {
+            "id": 3,
+            "category": "Наука",
+            "difficulty": 2,
+            "type": "numeric",
+            "question": "Колко е скоростта на светлината в km/s (закръглено)?",
+            "correct_answer": 300000
+        },
+        {
+            "id": 4,
+            "category": "История",
+            "difficulty": 2,
+            "type": "multiple_choice",
+            "question": "Кой е първият български цар?",
+            "options": ["Симеон I", "Борис I", "Крум", "Аспарух"],
+            "correct_answer": "Симеон I"
+        },
+        {
+            "id": 5,
+            "category": "География",
+            "difficulty": 2,
+            "type": "numeric",
+            "question": "Колко е височината на връх Мусала в метри?",
+            "correct_answer": 2925
+        },
+        {
+            "id": 6,
+            "category": "Наука",
+            "difficulty": 3,
+            "type": "multiple_choice",
+            "question": "Кой е химичният символ на златото?",
+            "options": ["Ag", "Au", "Fe", "Cu"],
+            "correct_answer": "Au"
+        },
+        {
+            "id": 7,
+            "category": "Изкуство",
+            "difficulty": 2,
+            "type": "multiple_choice",
+            "question": "Кой е нарисувал 'Мона Лиза'?",
+            "options": ["Микеланджело", "Рафаело", "Леонардо да Винчи", "Ботичели"],
+            "correct_answer": "Леонардо да Винчи"
+        },
+        {
+            "id": 8,
+            "category": "Спорт",
+            "difficulty": 1,
+            "type": "multiple_choice",
+            "question": "Колко играчи има във футболен отбор на терена?",
+            "options": ["9", "10", "11", "12"],
+            "correct_answer": "11"
+        },
+        {
+            "id": 9,
+            "category": "Обща култура",
+            "difficulty": 3,
+            "type": "numeric",
+            "question": "В коя година е основана ООН?",
+            "correct_answer": 1945
+        },
+        {
+            "id": 10,
+            "category": "История",
+            "difficulty": 3,
+            "type": "multiple_choice",
+            "question": "Коя е най-дългата война в историята?",
+            "options": ["Стогодишната война", "Първата световна война", "Втората световна война", "Тридесетгодишната война"],
+            "correct_answer": "Стогодишната война"
+        },
+        {
+            "id": 11,
+            "category": "География",
+            "difficulty": 3,
+            "type": "multiple_choice",
+            "question": "Коя е най-дългата река в света?",
+            "options": ["Амазонка", "Нил", "Яндзъ", "Мисисипи"],
+            "correct_answer": "Нил"
+        },
+        {
+            "id": 12,
+            "category": "Наука",
+            "difficulty": 4,
+            "type": "numeric",
+            "question": "Колко е атомният номер на въглерода?",
+            "correct_answer": 6
+        },
+        {
+            "id": 13,
+            "category": "Изкуство",
+            "difficulty": 3,
+            "type": "multiple_choice",
+            "question": "Кой е написал 'Хамлет'?",
+            "options": ["Чарлз Дикенс", "Уилям Шекспир", "Марк Твен", "Оскар Уайлд"],
+            "correct_answer": "Уилям Шекспир"
+        },
+        {
+            "id": 14,
+            "category": "Спорт",
+            "difficulty": 2,
+            "type": "numeric",
+            "question": "Колко минути е едно полувреме във футбола?",
+            "correct_answer": 45
+        },
+        {
+            "id": 15,
+            "category": "Обща култура",
+            "difficulty": 4,
+            "type": "multiple_choice",
+            "question": "Коя планета е най-близо до Слънцето?",
+            "options": ["Венера", "Земя", "Меркурий", "Марс"],
+            "correct_answer": "Меркурий"
+        },
+        {
+            "id": 16,
+            "category": "История",
+            "difficulty": 4,
+            "type": "numeric",
+            "question": "В коя година пада Берлинската стена?",
+            "correct_answer": 1989
+        },
+        {
+            "id": 17,
+            "category": "География",
+            "difficulty": 4,
+            "type": "numeric",
+            "question": "Колко държави членуват в Европейския съюз (към 2024)?",
+            "correct_answer": 27
+        },
+        {
+            "id": 18,
+            "category": "Наука",
+            "difficulty": 5,
+            "type": "multiple_choice",
+            "question": "Кой е открил пеницилина?",
+            "options": ["Луи Пастьор", "Александър Флеминг", "Робърт Кох", "Едуард Дженър"],
+            "correct_answer": "Александър Флеминг"
+        },
+        {
+            "id": 19,
+            "category": "Изкуство",
+            "difficulty": 4,
+            "type": "multiple_choice",
+            "question": "Кой е композирал 'Лунната соната'?",
+            "options": ["Моцарт", "Бах", "Бетовен", "Шопен"],
+            "correct_answer": "Бетовен"
+        },
+        {
+            "id": 20,
+            "category": "Спорт",
+            "difficulty": 3,
+            "type": "multiple_choice",
+            "question": "В кой град се проведоха летните олимпийски игри през 2008?",
+            "options": ["Лондон", "Пекин", "Атина", "Сидни"],
+            "correct_answer": "Пекин"
+        },
+        {
+            "id": 21,
+            "category": "Обща култура",
+            "difficulty": 5,
+            "type": "numeric",
+            "question": "Колко кости има човешкото тяло (възрастен)?",
+            "correct_answer": 206
+        },
+        {
+            "id": 22,
+            "category": "История",
+            "difficulty": 5,
+            "type": "multiple_choice",
+            "question": "Кой е бил първият римски император?",
+            "options": ["Юлий Цезар", "Октавиан Август", "Нерон", "Калигула"],
+            "correct_answer": "Октавиан Август"
+        },
+        {
+            "id": 23,
+            "category": "География",
+            "difficulty": 5,
+            "type": "numeric",
+            "question": "Колко е площта на България в квадратни километри (закръглено)?",
+            "correct_answer": 111000
+        },
+        {
+            "id": 24,
+            "category": "Наука",
+            "difficulty": 1,
+            "type": "multiple_choice",
+            "question": "Коя е формулата на водата?",
+            "options": ["CO2", "H2O", "NaCl", "O2"],
+            "correct_answer": "H2O"
+        },
+        {
+            "id": 25,
+            "category": "Изкуство",
+            "difficulty": 5,
+            "type": "numeric",
+            "question": "В коя година е роден Леонардо да Винчи?",
+            "correct_answer": 1452
+        },
+        {
+            "id": 26,
+            "category": "Спорт",
+            "difficulty": 4,
+            "type": "numeric",
+            "question": "Колко е дължината на маратон в километри (закръглено)?",
+            "correct_answer": 42
+        },
+        {
+            "id": 27,
+            "category": "Обща култура",
+            "difficulty": 2,
+            "type": "multiple_choice",
+            "question": "Кой е създал теорията на относителността?",
+            "options": ["Исак Нютон", "Никола Тесла", "Алберт Айнщайн", "Стивън Хокинг"],
+            "correct_answer": "Алберт Айнщайн"
+        },
+        {
+            "id": 28,
+            "category": "История",
+            "difficulty": 3,
+            "type": "numeric",
+            "question": "В коя година България е освободена от османско владичество?",
+            "correct_answer": 1878
+        },
+        {
+            "id": 29,
+            "category": "География",
+            "difficulty": 1,
+            "type": "multiple_choice",
+            "question": "Кой е най-големият океан?",
+            "options": ["Атлантически", "Индийски", "Тихи", "Северен ледовит"],
+            "correct_answer": "Тихи"
+        },
+        {
+            "id": 30,
+            "category": "Наука",
+            "difficulty": 3,
+            "type": "numeric",
+            "question": "Колко планети има в Слънчевата система?",
+            "correct_answer": 8
+        }
+    ]
+}
